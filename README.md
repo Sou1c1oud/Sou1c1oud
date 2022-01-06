@@ -1,8 +1,8 @@
 ## Holaaaa Que tal soy Luis Ariel Formoso, Soy FullStack Developer!
 
-- 💻 Trabajo con el back-end 
-- ⚙️  Estudiando JavaScript
-- 😀 Sobrenombre: Panther
+- 💻 Expecilizado en back-end & Front-end
+- ⚙️  Estudiando JavaScript & SQL
+- 😀 Sobrenombre: Mancloud
 
 <div align="center">
   <a href="https://github.com/Sou1c1oud">
@@ -16,7 +16,10 @@
   <img align="center" alt="Lue-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lue-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lue-Django" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
-  <img align="center" alt="Lue-Node" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="Lue-Node" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Lue-Node" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+
+
 
   </div>
   
