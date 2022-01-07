@@ -1,13 +1,13 @@
-## Holaaaa Que tal soy Luis 🐷!
+## Holaaaa Que tal soy Luisito 🐷!
 
 - 💻 Expecilizado en back-end & Front-end
 - ⚙️  Estudiando JavaScript & SQL
 - 😀 Sobrenombre: Mancloud
 
 <div align="center">
-  <a href="https://github.com/Sou1c1oud">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sou1c1oud&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sou1c1oud&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/LuisArielFormoso">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisArielFormoso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisArielFormoso&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
