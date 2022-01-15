@@ -1,7 +1,6 @@
 ## Holaaaa Que tal soy Luisito! 🐷
 
 - 💻  Especializado en back-end con Django
-- ⚙️  JavaScript & SQL
 
 <div align="center">
   <a href="https://github.com/LuisArielFormoso">
