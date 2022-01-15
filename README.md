@@ -1,8 +1,7 @@
 ## Holaaaa Que tal soy Luisito! 🐷
 
-- 💻 Expecilizado en back-end & Front-end
-- ⚙️  Estudiando JavaScript & SQL
-- 😀 Sobrenombre: Mancloud
+- 💻  Especializado en back-end con Django
+- ⚙️  JavaScript & SQL
 
 <div align="center">
   <a href="https://github.com/LuisArielFormoso">
