@@ -1,6 +1,12 @@
 ## Holaaaa Que tal soy Luisito! 🐷
 
-- 💻  Especializado en back-end con Django
+- 💻  Mis habilidades:
+     ~ Python, Django. ~
+
+     Estoy abierto a escuchar propuestas, opiniones, sugerencias y quiero demostrar toda mi dedicación así como mis conocimientos en desarrollo de software.
+     Me considero una persona que se adapta rápidamente al ámbito laboral, responsable y comprometido.
+     Dispuesto a adquirir conocimientos sobre nuevos proyectos a realizar.
+     Interesado en participar en capacitaciones para desarrollarme y crecer totalmente en lo laboral como personal.
 
 <div align="center">
   <a href="https://github.com/LuisArielFormoso">
